@@ -26,7 +26,7 @@ The examples below document the theme's options which are available in the TOML 
 ## Config.toml 
 
 ```toml
-base_url = "https://example.com"
+base_url = "https://kyriedriftwood.github.io/academic-workshop/"
 compile_sass = true # should be set to true
 build_search_index = false # not used by the theme
 generate_feed = false # not used by the theme
